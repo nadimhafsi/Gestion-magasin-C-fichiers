@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672380396 source:c:\users\nadim\desktop\gestionmagasin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+	<conio.h>
+
+1672380891 c:\users\nadim\desktop\gestionmagasin\fonctions.h
+
